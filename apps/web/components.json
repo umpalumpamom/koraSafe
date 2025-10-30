@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "aliases": {
+    "components": "~/components",
+    "hooks": "@kora/ui/hooks",
+    "lib": "@kora/ui/lib",
+    "ui": "@kora/ui/components",
+    "utils": "@kora/ui/lib/utils"
+  },
+  "iconLibrary": "lucide",
+  "rsc": false,
+  "style": "new-york",
+  "tailwind": {
+    "baseColor": "neutral",
+    "config": "",
+    "css": "../../packages/ui/src/styles/globals.css",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "tsx": true
+}
